@@ -4,8 +4,8 @@
 # funcName(1,2) 
 
 def funcname(a,b):
-    z = a + b
-    return z
+    # z = a + b 
+    return a + b
 
 x =funcname(3,2)
 print(x + 5)
